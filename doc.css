@@ -1,0 +1,25 @@
+body
+{
+background-color:rgb(41, 41, 199); 
+}
+h1
+{
+    text-align: center;color: red;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-transform: uppercase;
+    text-shadow:3px 2px black;
+    
+}
+table,td
+{
+ font: size 25px;
+ 
+border: 4px solid black;
+text-align: center;
+}
+ol
+{
+    text-transform: capitalize;
+    text-align: left;color: rgb(0, 0, 0);
+}
